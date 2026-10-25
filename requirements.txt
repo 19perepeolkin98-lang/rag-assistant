@@ -1,0 +1,5 @@
+streamlit>=1.36
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+gigachat>=0.2
+python-dotenv>=1.0
